@@ -4,7 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import com.potato.jpahibernate.course.jpa.CourseJpaRepo;
 import com.potato.jpahibernate.course.springdatajpa.CourseSpringDataRepo;
 
 @Component
